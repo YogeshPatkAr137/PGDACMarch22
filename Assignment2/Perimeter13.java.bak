@@ -1,0 +1,17 @@
+class Perimeter13
+{
+public static void main(String args [])
+{
+float w = 5.6000;
+System.out.println("width of rectangle = "+w);
+float h = 8.5000;
+System.out.println("Height of rectangle = "+h);
+
+float a = w*h;
+float p = 2*(w+h);
+
+System.out.println("Area of Rectangle = "+a);
+System.out.println("Perimeter of Rectangle = "+p);
+
+}
+}
